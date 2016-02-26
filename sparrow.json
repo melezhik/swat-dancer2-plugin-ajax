@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name" : "swat-dancer2-plugin-ajax",
+    "description": "swat intergration tests for Dancer2::Plugin::Ajax",
+    "url" : "https://github.com/melezhik/swat-dancer2-plugin-ajax"
+}
+
